@@ -1,0 +1,62 @@
+[
+  {
+    "title": "The Grand Horizon",
+    "year": 2014,
+    "genre": "Adventure",
+    "poster": "https://picsum.photos/seed/fav1/300/450"
+  },
+  {
+    "title": "Midnight Frequency",
+    "year": 2019,
+    "genre": "Thriller",
+    "poster": "https://picsum.photos/seed/fav2/300/450"
+  },
+  {
+    "title": "Paper Lanterns",
+    "year": 2011,
+    "genre": "Drama",
+    "poster": "https://picsum.photos/seed/fav3/300/450"
+  },
+  {
+    "title": "Solar Drift",
+    "year": 2022,
+    "genre": "Sci-Fi",
+    "poster": "https://picsum.photos/seed/fav4/300/450"
+  },
+  {
+    "title": "The Quiet Orchard",
+    "year": 2008,
+    "genre": "Drama",
+    "poster": "https://picsum.photos/seed/fav5/300/450"
+  },
+  {
+    "title": "Neon Alley",
+    "year": 2020,
+    "genre": "Action",
+    "poster": "https://picsum.photos/seed/fav6/300/450"
+  },
+  {
+    "title": "Copper Sky",
+    "year": 2016,
+    "genre": "Fantasy",
+    "poster": "https://picsum.photos/seed/fav7/300/450"
+  },
+  {
+    "title": "The Last Ferry",
+    "year": 2013,
+    "genre": "Drama",
+    "poster": "https://picsum.photos/seed/fav8/300/450"
+  },
+  {
+    "title": "Static Bloom",
+    "year": 2018,
+    "genre": "Mystery",
+    "poster": "https://picsum.photos/seed/fav9/300/450"
+  },
+  {
+    "title": "Harbor Lights",
+    "year": 2010,
+    "genre": "Romance",
+    "poster": "https://picsum.photos/seed/fav10/300/450"
+  }
+]
